@@ -1,0 +1,7 @@
+a=float(input())
+b=int(input())
+c=int(input())
+d=a*(b/100)
+e=a*(c/100)
+f=(a+d+e)
+print( str(round(f)))
