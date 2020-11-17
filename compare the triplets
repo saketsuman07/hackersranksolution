@@ -1,7 +1,7 @@
 a=list(map(int,input().split()))
 b=list(map(int,input().split()))
-bob=0
-alice=0
+bob=1
+alice=1
 for i in range(3):
  if a[i]>b[i]:
   alice=alice+1

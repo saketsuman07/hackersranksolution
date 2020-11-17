@@ -1,7 +1,7 @@
 i = 4
 d = 4.0
 s = 'HackerRank '
-a=int(input())
+a=int(input("enter the integer))
 b=float(input())
 c=str(input())
 print(i+a)
